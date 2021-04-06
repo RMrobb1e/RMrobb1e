@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@RMrobb1e 
-lowlighter
-/
-lowlighter
-0
-36
-52
-Code
-Pull requests
-Actions
-Security
-Insights
-lowlighter/.github/workflows/metrics.yml
-@lowlighter
-lowlighter Update metrics.yml
-Latest commit f66c652 16 days ago
- History
- 1 contributor
-931 lines (839 sloc)  36.6 KB
-  
-# This is a workflow which display most of lowlighter/metrics features
-#
-# It is also used to detect broken plugins, so that's why "plugins_errors_fatal" is enabled on most of them,
-# but you should set it to no if you're copying steps from this workflow
-#
-# ⚠️ Following jobs all uses @master branch (unstable branch with unreleased features)
-
 name: Metrics (examples)
 on:
   schedule:
