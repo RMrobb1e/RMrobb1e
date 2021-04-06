@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @RMrobb1e
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning shopify and wordpress
-- 💞️ I’m looking to collaborate on open-source project
-- 📫 You can reached me on my linkedin account: https://www.linkedin.com/in/robbie-angelo-m-5785b9129/
-
 ![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/github-metrics.svg)
 
 
