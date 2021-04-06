@@ -1,7 +1,5 @@
 ![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/github-metrics.svg)
-![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/metrics.plugin.achievements.svg)
-![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/metrics.plugin.habits.charts.svg)
-![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/metrics.plugin.lines.svg)
+![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/metrics.plugin.achievements.svg) ![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/metrics.plugin.habits.charts.svg)
 ![Metrics](https://github.com/RMrobb1e/RMrobb1e/blob/main/metrics.plugin.reactions.svg)
 
 
