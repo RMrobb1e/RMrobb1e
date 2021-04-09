@@ -937,6 +937,12 @@
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
 
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1025,10 +1031,10 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">
-                                    Booking.com fined €475,000 for reporting data breach too late
+                                    Initial M1 support merged into Linux SoC tree
                                 </div>
                                 <div class="date">
-                                    06/04/2021
+                                    09/04/2021
                                 </div>
                             </div>
                         </div>
@@ -1038,10 +1044,10 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">
-                                    Breaking GitHub Private Pages for $35k
+                                    Docker without Docker
                                 </div>
                                 <div class="date">
-                                    06/04/2021
+                                    09/04/2021
                                 </div>
                             </div>
                         </div>
@@ -1051,10 +1057,10 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">
-                                    Show HN: A hackable, minimal, fast TUI file explorer (written in rust)
+                                    Bike Theft Map – Bikmo
                                 </div>
                                 <div class="date">
-                                    06/04/2021
+                                    09/04/2021
                                 </div>
                             </div>
                         </div>
@@ -1064,10 +1070,10 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">
-                                    Kallithea – Self-hosted alternative to GitHub
+                                    Monkey MindPong
                                 </div>
                                 <div class="date">
-                                    06/04/2021
+                                    08/04/2021
                                 </div>
                             </div>
                         </div>
