@@ -937,6 +937,12 @@
     stroke: rgba(127, 127, 127, 0.4) !important;
   }
 
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
+  }
+
 /* Fade animation */
   .af {
     opacity: 0;
@@ -1025,10 +1031,10 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 09:00
+                            Mostly push code around 14:00
                         </li>
                         <li>
-                            Mostly active on saturday
+                            Mostly active on tuesday
                         </li>
                     </ul>
                 </div>
