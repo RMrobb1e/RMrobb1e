@@ -2,8 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>
-        /* SVG global context */
+    <style>/* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
@@ -97,8 +96,32 @@
     margin: 0 6px;
   }
 
-  .avatar.organization {
+  .organization.avatar {
     border-radius: 15%;
+  }
+
+  .organization.name {
+    white-space: nowrap;
+  }
+
+  .organization.contributions {
+    margin: 0 8px;
+    flex-wrap: wrap;
+  }
+
+  .contribution.organization {
+    display: flex;
+    border: 1px solid #959da5;
+    border-radius: 6px;
+    padding: 2px 6px;
+    padding-left: 0;
+    margin: 2px;
+    font-size: 12px;
+    background-color: #959da520;
+  }
+
+  .contribution.organization .avatar {
+    margin: 0 4px;
   }
 
 /* Commit calendar */
@@ -591,7 +614,7 @@
     white-space: nowrap;
   }
 
-  .activity .details .comment {
+  .activity .details &gt; .comment {
     overflow: hidden;
     text-overflow: ellipsis;
     display: block;
@@ -599,7 +622,6 @@
     margin-top: 6px;
     border-left: 3px solid #777777B2;
     padding-left: 6px;
-    max-height: 38px;
     /* May not work in all browsers */
     display: -webkit-box;
     -webkit-line-clamp: 2;
@@ -921,6 +943,48 @@
     overflow: hidden;
   }
 
+/* Markdown and syntax highlighting */
+  .markdown b, .markdown i {
+    display: inline-block;
+    width: 97%;
+  }
+  code {
+    background-color: #7777771F;
+    display: inline-block;
+    border-radius: 6px;
+    color: #777777;
+    padding: 1px 5px;
+    font-size: 80%;
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  }
+  code[class^=language-] {
+    white-space: pre-wrap;
+    width: 97%;
+    margin-top: 4px;
+  }
+  .token.comment {
+    color: #669900;
+  }
+  .token.punctuation {
+    color: #8a93a8;
+  }
+  .token.namespace, .token.constant, .token.symbol, .token.keyword {
+    color: #b44418;
+  }
+  .token.regex, .token.string, .token.char, .token.number, .token.boolean {
+    color: #2777AA;
+  }
+  .token.property, .token.tag {
+    color: #48428a;
+  }
+  .token.builtin, .token.operator {
+    color: #106cbc;
+  }
+  .token.trimmed {
+    font-style: italic;
+    color: #77777760
+  }
+
 /* Charts */
   .ct-line {
     stroke-width: 2px !important;
@@ -935,6 +999,12 @@
   }
   .ct-grid {
     stroke: rgba(127, 127, 127, 0.4) !important;
+  }
+
+/* Autosize */
+  .autosize {
+    width: auto;
+    height: auto;
   }
 
 /* Fade animation */
@@ -1006,19 +1076,18 @@
     animation-duration: 0s !important;
     animation-play-state: paused !important;
     caret-color: transparent !important;
-  }
-    </style>
+  }</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink">
             <div class="row">
             </div>
             <section>
                 <h2 class="field">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                        <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
-                    </svg>
-                    1 follower
-                </h2>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/></svg>
+          
+            1 follower
+          
+        </h2>
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/jpeg;base64,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" width="28" height="28" alt="" />
