@@ -1,5 +1,5 @@
 
-# Full Stack Developer | SharePoint Developer | Software Engineer
+# Full Stack Developer | SharePoint Developer
 
 <font size="4">Hi, 👋 I'm Robbie Angelo L. Mariano🤖 </font>
 
