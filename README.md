@@ -6,7 +6,7 @@
 
 *   🌍  I'm based in the Philippines
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ralm-portfolio.netlify.app/'>RALM-Portfolio</a>
-*   🧠  Currently learning backend technologies like nest and node.
+*   🧠  Full stack developer, specializing in frontend specifically react. Currently expanding my knowledge of backend technologies.
 *   🤝  I'm open to part-time and collaborating on interesting projects.
 
 
