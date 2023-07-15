@@ -51,6 +51,10 @@
 
 ### Projects
 
+<b>RALM Shop</b> - Ecommerce Website | Mongo, Express, ReactJS, React-Redux, Bootstrap UI, Node and AWS S3 for image storage.
+* Created a full-stack e-commerce app with a shopping cart, PayPal payment method, file upload, and admin panel.
+* Live site: <a href="[https://ralm-revents-c7c22.web.app//](https://ralm-shop.onrender.com/)">RALM Shop</a> and Github repo: <a href="https://github.com/RMrobb1e/ralm-shop" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
+
 <b>RALM Re-vents</b> - Event organizer Website | ReactJS, React-Redux, Semantic UI, and Google Firebase & Firestore
 * Created full-stack app events scheduling web application. Used ReactJS, React-Redux, Semantic UI, and Google Firebase & Firestore
 * Designed with Figma
@@ -60,11 +64,6 @@
 * Created a web app for developers to socialize using the following technology: MongoDB, ExpressJS, ReactJS, React-Redux, NodeJS
 * Designed with Figma
 * Live site: <a href="https://ralm-devconnector.herokuapp.com//">RALM - DevConnector</a> and Github repo: <a href="#" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
-
-<b>RALM - BrewHaha</b> - E-Commerce Website | ReactJS, GraphQL, Strapi, Stripe, & Gestalt
-* Created a full-stack e-commerce app as a one-stop beer shop. Use ReactJS, GraphQL, Strapi, Stripe, & Gestalt as frontend library
-* Designed with Figma
-* Live site: <a href="https://ralm-brewhaha.herokuapp.com//">RALM - BrewHaha</a> and Github repo: <a href="https://github.com/RMrobb1e/RALM-BrewHaha" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
 
 ### Support Me
 
