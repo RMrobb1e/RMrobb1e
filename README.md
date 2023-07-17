@@ -65,6 +65,6 @@
 * Designed with Figma
 * Live site: <a href="https://ralm-devconnector.herokuapp.com//">RALM - DevConnector</a> and Github repo: <a href="#" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
 
-### Support Mes
+### Support Me
 
 <a href="https://www.buymeacoffee.com/ralmariano"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
