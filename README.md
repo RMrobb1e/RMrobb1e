@@ -1,7 +1,7 @@
 
 # Full Stack Developer | SharePoint Developer
 
-<font size="4">Hi there, 👋 I'm Robbie Angelo Mariano 🤖 </font>
+<font size="4">Hi there, 👋 I'm Robbie Mariano 🤖 </font>
 
 
 *   🌍  I'm based in the Philippines.
