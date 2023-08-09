@@ -3,7 +3,6 @@
         <style/>
     </defs>
     <style>
-        /* SVG global context */
   svg {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
     font-size: 14px;
