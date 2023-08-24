@@ -9,7 +9,6 @@
     color: #777777;
   }
 
-/* Large SVG context */
   svg.large .largeable {
     width: 474px;
   }
