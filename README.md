@@ -68,10 +68,6 @@
 - Designed with Figma
 - Live site: <a href="https://ralm-devconnector.herokuapp.com//">RALM - DevConnector</a> and Github repo: <a href="#" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/ralmariano"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Weather in Manila
 
 <table>
@@ -119,3 +115,7 @@
         <td>14.4 kph</td><td>18.7 kph</td><td>20.5 kph</td><td>23.4 kph</td><td>31 kph</td><td>28.4 kph</td><td>19.1 kph</td>
     </tr>
 </table>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/ralmariano"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
