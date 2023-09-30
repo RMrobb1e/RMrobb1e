@@ -2,19 +2,10 @@
 
 <font size="4">Hi there, 👋 I'm Robbie Mariano 🤖 </font>
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
 - 🌍  I'm based in the Philippines
 - 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ralm-portfolio.netlify.app/'>RALM-Portfolio</a>
-- 🧠  Currently learning backend technologies like nest and node.
-- # 🤝  I'm open to part-time and collaborating on interesting projects.
-
-* 🌍  I'm based in the Philippines
-* 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ralm-portfolio.netlify.app/'>RALM-Portfolio</a>
-* 🧠  Full stack developer, specializing in frontend. Currently expanding my knowledge of backend and infrastructure technologies
-* 🤝  I'm open to part-time and collaborating on interesting projects
-
-> > > > > > > f0ecfb1f823cb9c5f650f403af6fdfa343a0edcf
+- 🧠  Full stack developer, specializing in frontend. Currently expanding my knowledge of backend and infrastructure technologies
+- 🤝  I'm open to part-time and collaborating on interesting projects.
 
 ### Skills
 
@@ -53,15 +44,10 @@
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software
 
-&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD
-
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/RMrobb1e/RMrobb1e/blob/main/images/sp.png" width="36" height="36" alt="SharePoint" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-
-> > > > > > > f0ecfb1f823cb9c5f650f403af6fdfa343a0edcf
-> > > > > > > <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> > > > > > > > <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 
 ### Projects
 
@@ -82,64 +68,12 @@
 - Designed with Figma
 - Live site: <a href="https://ralm-devconnector.herokuapp.com//">RALM - DevConnector</a> and Github repo: <a href="#" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
 
-<b>RALM - BrewHaha</b> - E-Commerce Website | ReactJS, GraphQL, Strapi, Stripe, & Gestalt
-
-- Created a full-stack e-commerce app as a one-stop beer shop. Use ReactJS, GraphQL, Strapi, Stripe, & Gestalt as frontend library
-- Designed with Figma
-- Live site: <a href="https://ralm-brewhaha.herokuapp.com//">RALM - BrewHaha</a> and Github repo: <a href="https://github.com/RMrobb1e/RALM-BrewHaha" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/ralmariano"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### Weather Today
+### Weather
 
-
-<table>
-    <tr>
-        <th>Hour</th>
-        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Patchy rain possible</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy rain possible</td><td width="200px">Partly cloudy</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Sunny</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Clear</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>25.1 °C</td><td>26.5 °C</td><td>27.7 °C</td><td>28.5 °C</td><td>29.5 °C</td><td>30.7 °C</td><td>31.3 °C</td><td>31.1 °C</td><td>30.6 °C</td><td>33 °C</td><td>29.2 °C</td><td>27.8 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.4 °C</td><td>25.9 °C</td><td>25.6 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>3.2 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>4 kph</td><td>5.8 kph</td><td>7.2 kph</td><td>3.6 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9 kph</td>
-    </tr>
-</table>
-
-
-<table>
-    <tr>
-        <th>Date</th>
-        <td>30/09/2023</td><td>01/10/2023</td><td>02/10/2023</td><td>03/10/2023</td><td>04/10/2023</td><td>05/10/2023</td><td>06/10/2023</td>
-    </tr>
-    <tr>
-        <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
-    </tr>
-    <tr>
-        <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td><td width="200px">Patchy rain possible</td><td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Patchy rain possible</td>
-    </tr>
-    <tr>
-        <th>Temperature</th>
-        <td>24.2 -  31.3 °C</td><td>24.6 -  33.2 °C</td><td>24.6 -  32.8 °C</td><td>24.8 -  33.3 °C</td><td>24.6 -  33.6 °C</td><td>24.8 -  33.7 °C</td><td>25.6 -  30.2 °C</td>
-    </tr>
-    <tr>
-        <th>Wind</th>
-        <td>9.4 kph</td><td>15.5 kph</td><td>13.7 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>15.8 kph</td>
-    </tr>
-</table>
-
-2023-09-30T09:55:12Z
+{{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
+{{ template "daily-table" .Weathers }}
+{{ formatTime .UpdatedAt }}
