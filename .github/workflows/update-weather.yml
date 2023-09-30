@@ -1,7 +1,8 @@
 name: "Weather Cronjob"
 on:
   schedule:
-    - cron: "15 * * * *"
+    # - cron: "15 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   update-weather:
@@ -23,8 +24,8 @@ jobs:
             echo "No changes to commit."
             exit 0
           else
-            git config user.name github-actions
-            git config user.email github-actions@github.com
+            git config user.name Robbie Mariano
+            git config user.email robbiemariano126@gmail.com
             git add .
             git commit -m "update"
             git push origin main
