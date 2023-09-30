@@ -72,8 +72,7 @@
 
 <a href="https://www.buymeacoffee.com/ralmariano"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### Weather
+### Weather in Manila
 
 {{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
 {{ template "daily-table" .Weathers }}
-{{ formatTime .UpdatedAt }}

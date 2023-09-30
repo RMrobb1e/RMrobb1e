@@ -72,8 +72,7 @@
 
 <a href="https://www.buymeacoffee.com/ralmariano"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-### Weather
-
+### Weather in Manila
 
 <table>
     <tr>
@@ -98,7 +97,6 @@
     </tr>
 </table>
 
-
 <table>
     <tr>
         <th>Date</th>
@@ -121,5 +119,3 @@
         <td>13.3 kph</td><td>18 kph</td><td>22 kph</td><td>24.8 kph</td><td>34.9 kph</td><td>30.2 kph</td><td>25.6 kph</td>
     </tr>
 </table>
-
-2023-09-30T10:50:09Z
