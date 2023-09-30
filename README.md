@@ -1,11 +1,20 @@
 # Full Stack Developer | SharePoint Developer
 
-<font size="4">Hi, 👋 I'm Robbie Angelo L. Mariano🤖 </font>
+<font size="4">Hi there, 👋 I'm Robbie Mariano 🤖 </font>
+
+<<<<<<< HEAD
 
 - 🌍  I'm based in the Philippines
 - 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ralm-portfolio.netlify.app/'>RALM-Portfolio</a>
 - 🧠  Currently learning backend technologies like nest and node.
-- 🤝  I'm open to part-time and collaborating on interesting projects.
+- # 🤝  I'm open to part-time and collaborating on interesting projects.
+
+* 🌍  I'm based in the Philippines
+* 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ralm-portfolio.netlify.app/'>RALM-Portfolio</a>
+* 🧠  Full stack developer, specializing in frontend. Currently expanding my knowledge of backend and infrastructure technologies
+* 🤝  I'm open to part-time and collaborating on interesting projects
+
+> > > > > > > f0ecfb1f823cb9c5f650f403af6fdfa343a0edcf
 
 ### Skills
 
@@ -44,11 +53,23 @@
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Software
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<<<<<<< HEAD
+
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/RMrobb1e/RMrobb1e/blob/main/images/sp.png" width="36" height="36" alt="SharePoint" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+
+> > > > > > > f0ecfb1f823cb9c5f650f403af6fdfa343a0edcf
+> > > > > > > <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+> > > > > > > <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 
 ### Projects
+
+<b>RALM Shop</b> - Ecommerce Website | Mongo, Express, ReactJS, React-Redux, Bootstrap UI, Node and AWS S3 for image storage.
+
+- Created a full-stack e-commerce app with a shopping cart, PayPal payment method, file upload, and admin panel.
+- Live site: <a href="[https://ralm-revents-c7c22.web.app//](https://ralm-shop.onrender.com/)">RALM Shop</a> and Github repo: <a href="https://github.com/RMrobb1e/ralm-shop" />Github&nbsp;<img width="18" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/1024px-GitHub_Invertocat_Logo.svg.png"/><a/>
 
 <b>RALM Re-vents</b> - Event organizer Website | ReactJS, React-Redux, Semantic UI, and Google Firebase & Firestore
 
