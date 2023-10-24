@@ -110,11 +110,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.9 -  30.6 °C</td><td>25.3 -  30.7 °C</td><td>25.1 -  30.6 °C</td>
+        <td>26 -  30.4 °C</td><td>25.5 -  30.8 °C</td><td>25.3 -  31 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>7.2 kph</td><td>7.6 kph</td>
+        <td>9 kph</td><td>6.8 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
