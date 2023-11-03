@@ -72,6 +72,8 @@
 
 {{ template "hourly-table" $.TodayWeather.HourlyWeathers }}
 {{ template "daily-table" .Weathers }}
+<em>{{ formatTime .UpdatedAt }}</em>
+
 
 ### Support Me
 
