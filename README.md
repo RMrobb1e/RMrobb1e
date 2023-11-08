@@ -3,7 +3,7 @@
 <font size="4">Hi there, 👋 I'm Robbie Mariano 🤖 </font>
 
 - 🌍  I'm based in the Philippines
-- 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://ralm-portfolio.netlify.app/'>RALM-Portfolio</a>
+- 🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://robbiemariano-portfolio.netlify.app'>RALM-Portfolio</a>
 - 🧠  Full stack developer, specializing in frontend. Currently expanding my knowledge of backend and infrastructure technologies
 - 🤝  I'm open to part-time and collaborating on interesting projects.
 
@@ -70,7 +70,6 @@
 
 ### Weather in Manila
 
-
 <table>
     <tr>
         <th>Hour</th>
@@ -93,7 +92,6 @@
         <td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>10.1 kph</td><td>13.7 kph</td><td>14.8 kph</td><td>16.2 kph</td><td>16.6 kph</td><td>17.3 kph</td><td>18.7 kph</td><td>19.1 kph</td><td>17.6 kph</td><td>15.5 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>9 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>9.7 kph</td>
     </tr>
 </table>
-
 
 <table>
     <tr>
@@ -119,7 +117,6 @@
 </table>
 
 <em>Updated at: 2023-11-08T12:38:54Z</em>
-
 
 ### Support Me
 
