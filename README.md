@@ -86,11 +86,11 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>27 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.8 °C</td><td>23.6 °C</td><td>23.9 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>28.6 °C</td><td>30 °C</td><td>31 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>31.6 °C</td><td>31 °C</td><td>30 °C</td><td>28.3 °C</td><td>27 °C</td><td>26.2 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.1 °C</td>
+        <td>24.5 °C</td><td>26 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.8 °C</td><td>23.6 °C</td><td>23.9 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>28.6 °C</td><td>30 °C</td><td>31 °C</td><td>31.5 °C</td><td>31.8 °C</td><td>31.6 °C</td><td>31 °C</td><td>30 °C</td><td>28.3 °C</td><td>27 °C</td><td>26.2 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>11.2 kph</td><td>14.8 kph</td><td>18 kph</td><td>20.9 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>19.4 kph</td><td>19.4 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>14.8 kph</td>
+        <td>9.7 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>11.2 kph</td><td>14.8 kph</td><td>18 kph</td><td>20.9 kph</td><td>21.2 kph</td><td>19.8 kph</td><td>19.4 kph</td><td>19.4 kph</td><td>18.7 kph</td><td>16.9 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
@@ -118,7 +118,7 @@
     </tr>
 </table>
 
-<em>Updated at: 2024-02-05T16:26:13Z</em>
+<em>Updated at: 2024-02-05T17:23:10Z</em>
 
 
 ### Support Me
