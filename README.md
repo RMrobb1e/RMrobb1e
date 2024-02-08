@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.8 kph</td><td>5 kph</td><td>5 kph</td><td>4.3 kph</td><td>1.1 kph</td><td>4 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>15.8 kph</td><td>18.4 kph</td><td>19.1 kph</td><td>18 kph</td><td>15.1 kph</td><td>9.7 kph</td><td>6.5 kph</td>
+        <td>7.2 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>4 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.8 kph</td><td>5 kph</td><td>5 kph</td><td>4.3 kph</td><td>1.1 kph</td><td>4 kph</td><td>7.2 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>15.8 kph</td><td>18.4 kph</td><td>19.1 kph</td><td>18 kph</td><td>15.1 kph</td><td>9.7 kph</td><td>6.5 kph</td>
     </tr>
 </table>
 
@@ -118,7 +118,7 @@
     </tr>
 </table>
 
-<em>Updated at: 2024-02-08T16:27:04Z</em>
+<em>Updated at: 2024-02-08T17:24:17Z</em>
 
 
 ### Support Me
