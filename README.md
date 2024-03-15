@@ -102,23 +102,23 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 -  31.4 °C</td><td>24.7 -  30.7 °C</td><td>24.7 -  31.9 °C</td>
+        <td>25.5 -  31.6 °C</td><td>24.8 -  31.1 °C</td><td>25.3 -  32.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.9 kph</td><td>21.6 kph</td><td>22.3 kph</td>
+        <td>19.1 kph</td><td>21.6 kph</td><td>23 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2024-03-15T16:27:21Z</em>
+<em>Updated at: 2024-03-15T17:23:10Z</em>
 
 
 ### Support Me
