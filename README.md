@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.9 kph</td><td>15.1 kph</td><td>9 kph</td><td>9 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>9 kph</td><td>10.1 kph</td><td>14 kph</td><td>19.4 kph</td><td>21.6 kph</td><td>23 kph</td><td>22.7 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>22.7 kph</td><td>21.2 kph</td><td>18.4 kph</td><td>14.8 kph</td><td>12.6 kph</td>
+        <td>11.9 kph</td><td>11.2 kph</td><td>9 kph</td><td>9 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>9 kph</td><td>10.1 kph</td><td>14 kph</td><td>19.4 kph</td><td>21.6 kph</td><td>23 kph</td><td>22.7 kph</td><td>26.3 kph</td><td>25.6 kph</td><td>22.7 kph</td><td>21.2 kph</td><td>18.4 kph</td><td>14.8 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
@@ -110,15 +110,15 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 -  33.8 °C</td><td>25.5 -  32.5 °C</td><td>26.6 -  34.4 °C</td>
+        <td>25.3 -  33.7 °C</td><td>25.8 -  32.9 °C</td><td>26.7 -  33.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>25.9 kph</td><td>20.2 kph</td><td>25.2 kph</td>
+        <td>25.6 kph</td><td>22.3 kph</td><td>24.8 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2024-03-24T16:24:53Z</em>
+<em>Updated at: 2024-03-24T17:22:36Z</em>
 
 
 ### Support Me
