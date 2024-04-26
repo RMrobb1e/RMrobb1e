@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.3 kph</td><td>6.8 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>3.2 kph</td><td>8.6 kph</td><td>15.8 kph</td><td>18.7 kph</td><td>21.2 kph</td><td>20.2 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>12.2 kph</td>
+        <td>13.3 kph</td><td>11.2 kph</td><td>9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>6.1 kph</td><td>3.2 kph</td><td>8.6 kph</td><td>15.8 kph</td><td>18.7 kph</td><td>21.2 kph</td><td>20.2 kph</td><td>18.4 kph</td><td>17.6 kph</td><td>15.8 kph</td><td>12.2 kph</td>
     </tr>
 </table>
 
@@ -102,23 +102,23 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.6 -  36.7 °C</td><td>28.5 -  36.5 °C</td><td>28.2 -  36.6 °C</td>
+        <td>27.7 -  36.7 °C</td><td>28.6 -  36.5 °C</td><td>28.6 -  36 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>21.2 kph</td><td>22 kph</td><td>23 kph</td>
+        <td>22.3 kph</td><td>19.1 kph</td><td>22.7 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2024-04-26T16:28:30Z</em>
+<em>Updated at: 2024-04-26T17:25:23Z</em>
 
 
 ### Support Me
