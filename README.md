@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>7.6 kph</td><td>13.3 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>5.8 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>10.1 kph</td>
+        <td>2.9 kph</td><td>6.8 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>7.6 kph</td><td>13.3 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>15.5 kph</td><td>5.8 kph</td><td>3.6 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>10.1 kph</td>
     </tr>
 </table>
 
@@ -102,23 +102,23 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.4 -  34.7 °C</td><td>27 -  34.1 °C</td><td>27 -  34.2 °C</td>
+        <td>27.8 -  34.1 °C</td><td>26.6 -  34 °C</td><td>27 -  33.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.6 kph</td><td>18.4 kph</td><td>18 kph</td>
+        <td>17.6 kph</td><td>16.9 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2024-05-17T16:27:38Z</em>
+<em>Updated at: 2024-05-17T17:24:40Z</em>
 
 
 ### Support Me
