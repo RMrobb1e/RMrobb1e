@@ -110,15 +110,15 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26 -  26.4 °C</td><td>26.1 -  26.6 °C</td><td>25.5 -  27.4 °C</td>
+        <td>25.8 -  26.4 °C</td><td>25.6 -  26.4 °C</td><td>25.8 -  27.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>33.8 kph</td><td>35.6 kph</td><td>39.2 kph</td>
+        <td>31.3 kph</td><td>36.7 kph</td><td>38.2 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2024-07-21T16:29:33Z</em>
+<em>Updated at: 2024-07-21T17:23:19Z</em>
 
 
 ### Support Me
