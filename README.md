@@ -90,7 +90,7 @@
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>12.2 kph</td><td>15.8 kph</td><td>20.5 kph</td><td>22.3 kph</td><td>22 kph</td><td>20.2 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.1 kph</td>
+        <td>2.5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>12.2 kph</td><td>15.8 kph</td><td>20.5 kph</td><td>22.3 kph</td><td>22 kph</td><td>20.2 kph</td><td>15.8 kph</td><td>13.7 kph</td><td>13 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>10.1 kph</td>
     </tr>
 </table>
 
@@ -102,23 +102,23 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td>
+        <td width="200px">Heavy rain</td><td width="200px">Heavy rain</td><td width="200px">Heavy rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 -  29.3 °C</td><td>25.8 -  26.8 °C</td><td>25.5 -  26.5 °C</td>
+        <td>26.1 -  29.1 °C</td><td>25.7 -  26.6 °C</td><td>25.5 -  26.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22.3 kph</td><td>31.3 kph</td><td>33.1 kph</td>
+        <td>23.8 kph</td><td>33.8 kph</td><td>38.2 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2024-07-20T23:22:14Z</em>
+<em>Updated at: 2024-07-21T01:45:06Z</em>
 
 
 ### Support Me
