@@ -86,7 +86,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 °C</td><td>27.1 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>25 °C</td><td>25.2 °C</td><td>25.8 °C</td><td>26.4 °C</td><td>26.9 °C</td><td>27 °C</td><td>27 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.4 °C</td>
+        <td>25.6 °C</td><td>26.2 °C</td><td>25.4 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>25 °C</td><td>25.2 °C</td><td>25.8 °C</td><td>26.4 °C</td><td>26.9 °C</td><td>27 °C</td><td>27 °C</td><td>27.1 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -102,23 +102,23 @@
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.9 -  27.1 °C</td><td>24.4 -  29.7 °C</td><td>24.2 -  29.6 °C</td>
+        <td>25 -  27.4 °C</td><td>24.4 -  29.7 °C</td><td>24.3 -  29.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>12.2 kph</td><td>13.7 kph</td>
+        <td>14.4 kph</td><td>12.2 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2025-01-17T16:30:49Z</em>
+<em>Updated at: 2025-01-17T17:27:01Z</em>
 
 
 ### Support Me
