@@ -110,15 +110,15 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 -  30.5 °C</td><td>25.2 -  31.4 °C</td><td>25.8 -  32.1 °C</td>
+        <td>25.9 -  30.7 °C</td><td>25.4 -  31.4 °C</td><td>25.7 -  31 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22.3 kph</td><td>22 kph</td><td>23 kph</td>
+        <td>22.7 kph</td><td>23.8 kph</td><td>21.6 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2025-03-09T16:26:24Z</em>
+<em>Updated at: 2025-03-09T17:23:32Z</em>
 
 
 ### Support Me
