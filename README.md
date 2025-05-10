@@ -86,7 +86,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.7 °C</td><td>28.5 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.6 °C</td><td>29 °C</td><td>29.7 °C</td><td>30.8 °C</td><td>31.8 °C</td><td>32.7 °C</td><td>33.2 °C</td><td>33.9 °C</td><td>34.6 °C</td><td>34.6 °C</td><td>34.3 °C</td><td>33.7 °C</td><td>32.3 °C</td><td>31.5 °C</td><td>30.9 °C</td><td>30.4 °C</td><td>29.8 °C</td><td>29.4 °C</td>
+        <td>28.7 °C</td><td>28.5 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.7 °C</td><td>27.5 °C</td><td>27.6 °C</td><td>28.6 °C</td><td>29.7 °C</td><td>30.8 °C</td><td>32.1 °C</td><td>32.7 °C</td><td>33.2 °C</td><td>33.9 °C</td><td>34.6 °C</td><td>34.6 °C</td><td>34.3 °C</td><td>33.7 °C</td><td>32.3 °C</td><td>31.5 °C</td><td>30.9 °C</td><td>30.4 °C</td><td>29.8 °C</td><td>29.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -110,15 +110,15 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.5 -  34.4 °C</td><td>27.6 -  33.7 °C</td><td>27.9 -  33.8 °C</td>
+        <td>27.5 -  34.6 °C</td><td>27.8 -  33.8 °C</td><td>28.1 -  33.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>18.7 kph</td><td>19.4 kph</td>
+        <td>12.6 kph</td><td>19.1 kph</td><td>16.9 kph</td>
     </tr>
 </table>
 
-<em>Updated at: 2025-05-09T23:26:12Z</em>
+<em>Updated at: 2025-05-10T02:03:14Z</em>
 
 
 ### Support Me
