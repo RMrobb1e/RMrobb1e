@@ -86,7 +86,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.7 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>28 °C</td><td>27.9 °C</td><td>27.7 °C</td><td>27.9 °C</td><td>28.7 °C</td><td>29.9 °C</td><td>31.2 °C</td><td>32.6 °C</td><td>33.5 °C</td><td>34.2 °C</td><td>34.4 °C</td><td>34 °C</td><td>32.2 °C</td><td>32.6 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>30.3 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.8 °C</td><td>28.3 °C</td>
+        <td>28.7 °C</td><td>28.5 °C</td><td>28.2 °C</td><td>28 °C</td><td>27.9 °C</td><td>27.7 °C</td><td>27.9 °C</td><td>28.7 °C</td><td>29.9 °C</td><td>31.2 °C</td><td>32.6 °C</td><td>33.5 °C</td><td>34.2 °C</td><td>34.4 °C</td><td>34 °C</td><td>33.1 °C</td><td>32.2 °C</td><td>31.9 °C</td><td>30.8 °C</td><td>30.3 °C</td><td>28.9 °C</td><td>28.6 °C</td><td>28.8 °C</td><td>28.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -118,7 +118,7 @@
     </tr>
 </table>
 
-<em>Updated at: 2025-05-28T07:28:37Z</em>
+<em>Updated at: 2025-05-28T08:37:37Z</em>
 
 
 ### Support Me
