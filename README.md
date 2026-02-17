@@ -86,7 +86,7 @@
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 °C</td><td>25.5 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.9 °C</td><td>25.9 °C</td><td>26.9 °C</td><td>28 °C</td><td>28.7 °C</td><td>29.2 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>29 °C</td><td>28.4 °C</td><td>27.8 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.8 °C</td>
+        <td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>27.2 °C</td><td>24.9 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.9 °C</td><td>25.9 °C</td><td>26.9 °C</td><td>28 °C</td><td>28.7 °C</td><td>29.2 °C</td><td>29.3 °C</td><td>29.3 °C</td><td>29 °C</td><td>28.4 °C</td><td>27.8 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -118,7 +118,7 @@
     </tr>
 </table>
 
-<em>Updated at: 2026-02-17T18:05:45Z</em>
+<em>Updated at: 2026-02-17T19:12:56Z</em>
 
 
 ### Support Me
